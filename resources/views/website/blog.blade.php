@@ -8,7 +8,7 @@
 			<img class="figure-img img-fluid" src="img/product-img/tab-img-6.jpg" alt="Features">
 		</div>
 		<div class="col-12 col-md-12 col-lg-6 video-info">
-			<h6 class="video-info-title">Some prons and Cons</h6>
+			<h6 class="video-info-title">Some prons and Cons</h6>dfgdsfg
 
 			<p><strong class="video-info-subtitle">Pros:</strong>really great keyboard, good trackpad, alcantara, stand-out design, USB-A port, great screen, great battery life, Windows Hello</p>
 			<p><strong class="video-info-subtitle">Pros:</strong>really great keyboard, good trackpad, alcantara, stand-out design, USB-A port, great screen, great battery life, Windows Hello</p>
