@@ -40,7 +40,7 @@
 
 			              <div class="product-slider__bottom">
 			                <button class="product-slider__cart">
-			                  View Now
+			                  View Now !
 			                </button>
 
 			                
